@@ -1,0 +1,7 @@
+{
+    "name": "haiyang/ocean",
+    "description": "php tool",
+    "type": "project",
+    "license": "haiyang",
+    "require": {}
+}
