@@ -3,5 +3,6 @@
     "description": "php tool",
     "type": "project",
     "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
     "require": {}
 }
