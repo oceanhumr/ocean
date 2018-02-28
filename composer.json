@@ -2,6 +2,6 @@
     "name": "haiyang/ocean",
     "description": "php tool",
     "type": "project",
-    "license": "haiyang",
+    "license": "BSD-3-Clause",
     "require": {}
 }
