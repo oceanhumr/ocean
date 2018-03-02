@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "require": {
-        "qiniu/php-sdk": "v7.0.7"
+        "qiniu/php-sdk": "v7.2.3"
     },
     "autoload": {
         "psr-4": {
