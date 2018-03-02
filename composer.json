@@ -4,5 +4,7 @@
     "type": "project",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "qiniu/php-sdk": "v7.0.7"
+    }
 }
